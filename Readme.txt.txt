@@ -1,0 +1,7 @@
+OPENAI_API_KEY=key
+SECRET_KEY=key
+DB_URL=127.0.0.1
+DBNAME=CHATGPT
+DBUSER=user
+DBPASSWORD=password
+PORT=your port number
